@@ -1,0 +1,3306 @@
+[
+  {
+    "local_pn": "AME-10261",
+    "description": "Retaining Ring, 30 mm Aperture",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Size",
+        "30MM"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10261.jpg"
+  },
+  {
+    "local_pn": "AME-10263",
+    "description": "Spring-Return Ball Valve",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/4 TB"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10263.jpg"
+  },
+  {
+    "local_pn": "AME-10265",
+    "description": "Insulating Boot for Capacitor",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10266",
+    "description": "Silicone Rubber Sheet, 1/4 in Thick",
+    "category": "Consumable / Material",
+    "material": [
+      [
+        "Media",
+        "Silicone"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Thickness",
+        "4THK"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10266.jpg"
+  },
+  {
+    "local_pn": "AME-10267",
+    "description": "Keypad Cable",
+    "category": "Keypad / Front panel",
+    "material": [
+      [
+        "Overlay",
+        "Polyester membrane"
+      ],
+      [
+        "Substrate",
+        "Per configuration"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10267.jpg"
+  },
+  {
+    "local_pn": "AME-10268",
+    "description": "Xenon Flash Lamp, 190-1100 nm",
+    "category": "Lamp / Light source",
+    "material": [
+      [
+        "Envelope",
+        "UV-grade quartz"
+      ],
+      [
+        "Type",
+        "Xenon flash"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Spectral",
+        "190-1100NM"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10269",
+    "description": "Rotary Solenoid Valve, 15 V",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10274",
+    "description": "Silicone O-Ring Seal, 2.350 in ID",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "Silicone"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Inner dia (ID)",
+        "2.350ID"
+      ],
+      [
+        "Cross-section / width",
+        ".210W"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10274.jpg"
+  },
+  {
+    "local_pn": "AME-10277",
+    "description": "Battery, 12 V",
+    "category": "Battery",
+    "material": [
+      [
+        "Chemistry",
+        "Per type"
+      ],
+      [
+        "Housing",
+        "Per cell"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "12V"
+      ],
+      [
+        "Current",
+        "5.2A"
+      ],
+      [
+        "Operating conditions",
+        "Sample gas 10-52 C, inlet max 690 kPa (100 psig), min 69 kPa (10 psi) differential, flow ~100 mL/min; sample free of >10 um particulate and oil mist; ambient 0-52 C."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10277.jpg"
+  },
+  {
+    "local_pn": "AME-10278",
+    "description": "Micro Plug-In Fuse, 250 mA",
+    "category": "Fuse",
+    "material": [
+      [
+        "Body",
+        "Glass / ceramic"
+      ],
+      [
+        "End caps",
+        "Nickel-plated brass"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "125V"
+      ],
+      [
+        "Current",
+        "250MA"
+      ],
+      [
+        "Operating conditions",
+        "Sample gas 10-52 C, inlet max 690 kPa (100 psig), min 69 kPa (10 psi) differential, flow ~100 mL/min; sample free of >10 um particulate and oil mist; ambient 0-52 C."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10278.jpg"
+  },
+  {
+    "local_pn": "AME-10279",
+    "description": "Male/Female Adapter, 1/2 in NPT, with Sintered Element",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/2 NPT"
+      ],
+      [
+        "Operating conditions",
+        "Sample gas 10-52 C, inlet max 690 kPa (100 psig), min 69 kPa (10 psi) differential, flow ~100 mL/min; sample free of >10 um particulate and oil mist; ambient 0-52 C."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10279.jpg"
+  },
+  {
+    "local_pn": "AME-10283",
+    "description": "Filter Element, 25 Micron",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "25 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10283.jpg"
+  },
+  {
+    "local_pn": "AME-10285",
+    "description": "Filter Element, 2 Micron",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample gas 10-52 C, inlet max 690 kPa (100 psig), min 69 kPa (10 psi) differential, flow ~100 mL/min; sample free of >10 um particulate and oil mist; ambient 0-52 C."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10285.jpg"
+  },
+  {
+    "local_pn": "AME-10286",
+    "description": "Organic-Removal Cartridge",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10286.jpg"
+  },
+  {
+    "local_pn": "AME-10287",
+    "description": "Ion-Exchange Cartridge",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10287.jpg"
+  },
+  {
+    "local_pn": "AME-10288",
+    "description": "O-Ring, Head Seal, Filter Assembly",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "FKM / Buna-N / EPR per service"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10288.jpg"
+  },
+  {
+    "local_pn": "AME-10289",
+    "description": "Flow Regulator, Stainless Steel, 1/4 in",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/4 NPT"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10289.jpg"
+  },
+  {
+    "local_pn": "AME-10290",
+    "description": "Flowmeter, Stainless Steel, 3 LPM",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Flow",
+        "3 LPM"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10290.jpg"
+  },
+  {
+    "local_pn": "AME-10291",
+    "description": "Flowmeter, Stainless Steel (Water)",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Flow",
+        "79CC/MIN"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10291.jpg"
+  },
+  {
+    "local_pn": "AME-10292",
+    "description": "Flowmeter, Stainless Steel, 77 cc/min (Air)",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Flow",
+        "77 CC/MIN"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10292.jpg"
+  },
+  {
+    "local_pn": "AME-10295",
+    "description": "Rubber Heater, 4 x 5, 240 V",
+    "category": "Heater",
+    "material": [
+      [
+        "Type",
+        "Resistance heater"
+      ],
+      [
+        "Sheath",
+        "Stainless steel / Incoloy"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "240V"
+      ],
+      [
+        "Power",
+        "100W"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10295.jpg"
+  },
+  {
+    "local_pn": "AME-10296",
+    "description": "Plug Fuse for Base Terminal",
+    "category": "Fuse",
+    "material": [
+      [
+        "Body",
+        "Glass / ceramic"
+      ],
+      [
+        "End caps",
+        "Nickel-plated brass"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10296.jpg"
+  },
+  {
+    "local_pn": "AME-10297",
+    "description": "Pressure Regulator, Stainless Steel",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10297.jpg"
+  },
+  {
+    "local_pn": "AME-10298",
+    "description": "Tee Filter",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10298.jpg"
+  },
+  {
+    "local_pn": "AME-10299",
+    "description": "Filter Element, 7 Micron (Tee)",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "7 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10299.jpg"
+  },
+  {
+    "local_pn": "AME-10300",
+    "description": "Pneumatic Elbow Fitting, 1/8 in",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/8\" NPT X 5/32\" TUBE"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10300.jpg"
+  },
+  {
+    "local_pn": "AME-10301",
+    "description": "Polyethylene Muffler",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10302",
+    "description": "Time-Lag Fuse, 80 mA",
+    "category": "Fuse",
+    "material": [
+      [
+        "Body",
+        "Glass / ceramic"
+      ],
+      [
+        "End caps",
+        "Nickel-plated brass"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "5 X 20 MM"
+      ],
+      [
+        "Current",
+        "80 MA"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10302.jpg"
+  },
+  {
+    "local_pn": "AME-10303",
+    "description": "Proportional Valve, ATEX",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10303.jpg"
+  },
+  {
+    "local_pn": "AME-10305",
+    "description": "VCR Orifice Gasket, 400 um",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "FKM / Buna-N / EPR per service"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "400 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10305.jpg"
+  },
+  {
+    "local_pn": "AME-10307",
+    "description": "Pressure Sensor, 0-100 psi",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Pressure transducer"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/8 NPT"
+      ],
+      [
+        "Pressure",
+        "0-100 PSIA"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10307.jpg"
+  },
+  {
+    "local_pn": "AME-10308",
+    "description": "Thermocouple, Type K",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Thermocouple"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10308.jpg"
+  },
+  {
+    "local_pn": "AME-10309",
+    "description": "Fan Filter, 3/32 in Thick, 45 PPI",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Thickness",
+        "32 THK"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10309.jpg"
+  },
+  {
+    "local_pn": "AME-10310",
+    "description": "Front Tube Ferrule, 1/8 in",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/8 TB"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10310.jpg"
+  },
+  {
+    "local_pn": "AME-10311",
+    "description": "Front Tube Ferrule, 1/4 in OD",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Outer dia (OD)",
+        "4 OD"
+      ],
+      [
+        "Connection",
+        "1/4 OD"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10311.jpg"
+  },
+  {
+    "local_pn": "AME-10312",
+    "description": "Rear Tube Ferrule, 1/8 in",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/8 TB"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10312.jpg"
+  },
+  {
+    "local_pn": "AME-10313",
+    "description": "Rear Tube Ferrule, 1/4 in",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/4 TB"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10313.jpg"
+  },
+  {
+    "local_pn": "AME-10314",
+    "description": "Bubble Flow Meter, 1 / 10 / 500 mL",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10318",
+    "description": "Dryer Mounting Bracket",
+    "category": "Dryer",
+    "material": [
+      [
+        "Type",
+        "Drying module"
+      ],
+      [
+        "Housing",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10321",
+    "description": "Gas Regulator",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10321.jpg"
+  },
+  {
+    "local_pn": "AME-10327",
+    "description": "Membrane Dryer with Bellows",
+    "category": "Dryer",
+    "material": [
+      [
+        "Type",
+        "Drying module"
+      ],
+      [
+        "Housing",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10327.jpg"
+  },
+  {
+    "local_pn": "AME-10332",
+    "description": "Rotameter Kit, Aluminium",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Flow",
+        "250SCCM"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10332.jpg"
+  },
+  {
+    "local_pn": "AME-10333",
+    "description": "Sample-Line Dryer Assembly (Mini)",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10333.jpg"
+  },
+  {
+    "local_pn": "AME-10334",
+    "description": "Membrane Separator Kit",
+    "category": "Consumable / Material",
+    "material": [
+      [
+        "Media",
+        "Per media"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Max 1000 psig (68.9 barg); max 85 C (Type 6) / 149 C (Type 7); max flow 1440 / 5000 cc/min; ~2 psi dP; 1/4in FNPT ports; wetted parts 316 SS (NACE), selectable FKM/FFKM seals."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10334.jpg"
+  },
+  {
+    "local_pn": "AME-10335",
+    "description": "Flow Restrictor Kit, 0.01 in (Spare)",
+    "category": "Orifice / Restrictor",
+    "material": [
+      [
+        "Material",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Machined orifice"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10335.jpg"
+  },
+  {
+    "local_pn": "AME-10338",
+    "description": "Filter Retainer Spring",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10338.jpg"
+  },
+  {
+    "local_pn": "AME-10340",
+    "description": "Stainless Steel Demister Pad",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10340.jpg"
+  },
+  {
+    "local_pn": "AME-10342",
+    "description": "Orifice, 0.25 in OD x 0.040 in ID",
+    "category": "Orifice / Restrictor",
+    "material": [
+      [
+        "Material",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Machined orifice"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Inner dia (ID)",
+        "0.040 ID"
+      ],
+      [
+        "Outer dia (OD)",
+        "0.25 OD"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10342.jpg"
+  },
+  {
+    "local_pn": "AME-10343",
+    "description": "Cross Fitting, 316 SS / PTFE",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "PTFE / 316 stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10344",
+    "description": "Air-Preheat Aspirator",
+    "category": "Motor / Fan / Pump",
+    "material": [
+      [
+        "Housing",
+        "Per configuration"
+      ],
+      [
+        "Wetted (if sample)",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10344.jpg"
+  },
+  {
+    "local_pn": "AME-10345",
+    "description": "Flange Assembly, 2 in for 1/2 in",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/2\" TUBE"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10345.jpg"
+  },
+  {
+    "local_pn": "AME-10346",
+    "description": "O-Ring, Buna-N, 200 mm ID",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "Buna-N"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Inner dia (ID)",
+        "200MM ID"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10346.jpg"
+  },
+  {
+    "local_pn": "AME-10348",
+    "description": "Calibration Filter Lever",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10348.jpg"
+  },
+  {
+    "local_pn": "AME-10350",
+    "description": "Keypad Gasket",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "FKM / Buna-N / EPR per service"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10350.jpg"
+  },
+  {
+    "local_pn": "AME-10351",
+    "description": "Controller Cable Assembly",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10352",
+    "description": "Controller Cable, 34-Conductor",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10354",
+    "description": "Tee Assembly, 1/4 in Stainless Steel",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "50 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10354.jpg"
+  },
+  {
+    "local_pn": "AME-10355",
+    "description": "Proportional Valve Assembly",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10355.jpg"
+  },
+  {
+    "local_pn": "AME-10358",
+    "description": "Aspirator, Aluminium",
+    "category": "Motor / Fan / Pump",
+    "material": [
+      [
+        "Housing",
+        "Per configuration"
+      ],
+      [
+        "Wetted (if sample)",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10359",
+    "description": "Battery, 3 V, CR1025",
+    "category": "Battery",
+    "material": [
+      [
+        "Chemistry",
+        "Lithium"
+      ],
+      [
+        "Housing",
+        "Per cell"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "3V"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10359.jpg"
+  },
+  {
+    "local_pn": "AME-10362",
+    "description": "O-Ring, EPR (Baked)",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "EPR"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Seal size",
+        "SIZE 125"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10362.jpg"
+  },
+  {
+    "local_pn": "AME-10364",
+    "description": "Low-Pressure Gas Assembly",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Pressure",
+        "300 PSI"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10364.jpg"
+  },
+  {
+    "local_pn": "AME-10372",
+    "description": "Tested Enclosure Assembly (Field-Replaceable)",
+    "category": "Electronic board",
+    "material": [
+      [
+        "Type",
+        "Populated PCB assembly"
+      ],
+      [
+        "Note",
+        "Factory-programmed where applicable"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "230V"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10372.jpg"
+  },
+  {
+    "local_pn": "AME-10374",
+    "description": "Quad DAC IC, 12-Bit, Through-Hole",
+    "category": "Electronic board",
+    "material": [
+      [
+        "Type",
+        "Populated PCB assembly"
+      ],
+      [
+        "Note",
+        "Factory-programmed where applicable"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10374.jpg"
+  },
+  {
+    "local_pn": "AME-10377",
+    "description": "Stainless Steel Valve Handle",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10379",
+    "description": "Photomultiplier Tube, Low-Gain",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Photomultiplier"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10379.jpg"
+  },
+  {
+    "local_pn": "AME-10380",
+    "description": "Wave Spring, Push Type",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10380.jpg"
+  },
+  {
+    "local_pn": "AME-10382",
+    "description": "In-Line Membrane Separator Filter",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10382.jpg"
+  },
+  {
+    "local_pn": "AME-10383",
+    "description": "Photomultiplier Tube, Medium-Gain",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Photomultiplier"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10383.jpg"
+  },
+  {
+    "local_pn": "AME-10384",
+    "description": "Flow Restrictor, 200 sccm",
+    "category": "Orifice / Restrictor",
+    "material": [
+      [
+        "Material",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Flow",
+        "200SCCM"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10384.jpg"
+  },
+  {
+    "local_pn": "AME-10385",
+    "description": "Fuse, 1 A, 250 V, 5 x 20 mm",
+    "category": "Fuse",
+    "material": [
+      [
+        "Body",
+        "Glass / ceramic"
+      ],
+      [
+        "End caps",
+        "Nickel-plated brass"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "5X20MM"
+      ],
+      [
+        "Voltage",
+        "250V"
+      ],
+      [
+        "Current",
+        "1A"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10385.jpg"
+  },
+  {
+    "local_pn": "AME-10386",
+    "description": "Suction Screw Spacer",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10387",
+    "description": "Cartridge Heater, 1/4 in x 1 in",
+    "category": "Heater",
+    "material": [
+      [
+        "Type",
+        "Cartridge heater"
+      ],
+      [
+        "Sheath",
+        "Stainless steel / Incoloy"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "120V"
+      ],
+      [
+        "Power",
+        "75W"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10387.jpg"
+  },
+  {
+    "local_pn": "AME-10388",
+    "description": "Pressure Regulator, 0-100 psig (Low)",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Pressure",
+        "0-100PSIG"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10388.jpg"
+  },
+  {
+    "local_pn": "AME-10389",
+    "description": "Pressure Transducer",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Pressure transducer"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Pressure",
+        "0-100 PSIA"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10389.jpg"
+  },
+  {
+    "local_pn": "AME-10392",
+    "description": "RS-232 Communications Cable",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10393",
+    "description": "Graphite Filter Gasket",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "FKM / Buna-N / EPR per service"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Heated cell/lines up to ~165 C; ambient 0-50 C; sample pressure 830-13790 kPa (120-2000 psig); sample flow ~2.5 L/min (5 SCFH); built-in aspirator sample draw; response <30 s (H2S)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10393.jpg"
+  },
+  {
+    "local_pn": "AME-10394",
+    "description": "Membrane Replacement Kit",
+    "category": "Consumable / Material",
+    "material": [
+      [
+        "Media",
+        "PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Max 1000 psig (68.9 barg); max 85 C (Type 6) / 149 C (Type 7); max flow 1440 / 5000 cc/min; ~2 psi dP; 1/4in FNPT ports; wetted parts 316 SS (NACE), selectable FKM/FFKM seals."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10394.jpg"
+  },
+  {
+    "local_pn": "AME-10395",
+    "description": "Ribbon Cable, 26-Conductor",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10395.jpg"
+  },
+  {
+    "local_pn": "AME-10397",
+    "description": "O-Ring, Aflas, Size 127",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "Aflas"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Seal size",
+        "SIZE 127"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10397.jpg"
+  },
+  {
+    "local_pn": "AME-10399",
+    "description": "Orifice, 250 um, 1/8 in, 1000 sccm",
+    "category": "Orifice / Restrictor",
+    "material": [
+      [
+        "Material",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Machined orifice"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "250 UM"
+      ],
+      [
+        "Pressure",
+        "30 PSIG"
+      ],
+      [
+        "Flow",
+        "1000SCCM"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10399.jpg"
+  },
+  {
+    "local_pn": "AME-10400",
+    "description": "PTFE Washer, 0.625 in",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Inner dia (ID)",
+        "0.438\" ID"
+      ],
+      [
+        "Outer dia (OD)",
+        "0.625\" OD"
+      ],
+      [
+        "Operating conditions",
+        "Ambient -20 to +50 C; enclosure NEMA 4X / IP65; xenon lamp life >2 years; instrument-air or UHP-N2 purge; sample flow application-specific."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10400.jpg"
+  },
+  {
+    "local_pn": "AME-10402",
+    "description": "Particulate Filter, 7 Micron",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "7 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10402.jpg"
+  },
+  {
+    "local_pn": "AME-10403",
+    "description": "Adapter Assembly (Field-Replaceable)",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/8\" TUBE"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10403.jpg"
+  },
+  {
+    "local_pn": "AME-10409",
+    "description": "Nut, 3/8 in Tube, Stainless Steel",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10410",
+    "description": "Front Ferrule, 3/8 in Tube, Stainless Steel",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10410.jpg"
+  },
+  {
+    "local_pn": "AME-10411",
+    "description": "Back Ferrule, 3/8 in Tube, Stainless Steel",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10411.jpg"
+  },
+  {
+    "local_pn": "AME-10412",
+    "description": "Connector, 1/2 in Tube x 3/8 in NPT (M)",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "3/8NPT"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10412.jpg"
+  },
+  {
+    "local_pn": "AME-10413",
+    "description": "Pressure Gauge",
+    "category": "Gauge",
+    "material": [
+      [
+        "Wetted parts",
+        "316 stainless steel"
+      ],
+      [
+        "Case",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Pressure",
+        "0-160 PSI"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10413.jpg"
+  },
+  {
+    "local_pn": "AME-10416",
+    "description": "Pressure Regulator",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10416.jpg"
+  },
+  {
+    "local_pn": "AME-10417",
+    "description": "Retaining Ring (Beryllium Copper)",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10417.jpg"
+  },
+  {
+    "local_pn": "AME-10418",
+    "description": "Flange Gasket, 3 in, 150#",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "FKM / Buna-N / EPR per service"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10418.jpg"
+  },
+  {
+    "local_pn": "AME-10419",
+    "description": "Conductive Gasket, Monel",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "Monel"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10419.jpg"
+  },
+  {
+    "local_pn": "AME-10423",
+    "description": "Pneumatic Manifold",
+    "category": "Regulator",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Diaphragm / seals",
+        "316L / FKM per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10423.jpg"
+  },
+  {
+    "local_pn": "AME-10428",
+    "description": "O-Ring, FKM (Viton), Size 024",
+    "category": "O-Ring / Seal / Gasket",
+    "material": [
+      [
+        "Material",
+        "Viton (FKM)"
+      ],
+      [
+        "Type",
+        "Elastomer seal / gasket"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "To be confirmed against the applicable equipment manual."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10428.jpg"
+  },
+  {
+    "local_pn": "AME-10431",
+    "description": "Transformer Assembly (Field-Replaceable)",
+    "category": "Power supply",
+    "material": [
+      [
+        "Type",
+        "Electronic power assembly"
+      ],
+      [
+        "Enclosure",
+        "Per configuration"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10431.jpg"
+  },
+  {
+    "local_pn": "AME-10433",
+    "description": "Rear-Panel Axial Fan Assembly",
+    "category": "Motor / Fan / Pump",
+    "material": [
+      [
+        "Housing",
+        "Per configuration"
+      ],
+      [
+        "Wetted (if sample)",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10433.jpg"
+  },
+  {
+    "local_pn": "AME-10436",
+    "description": "Inlet Tube, 5.52 in (0.187/0.186 in)",
+    "category": "Tubing / Hose",
+    "material": [
+      [
+        "Material",
+        "316 SS / PTFE per description"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10439",
+    "description": "Venturi, Short",
+    "category": "Motor / Fan / Pump",
+    "material": [
+      [
+        "Housing",
+        "Per configuration"
+      ],
+      [
+        "Wetted (if sample)",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10439.jpg"
+  },
+  {
+    "local_pn": "AME-10440",
+    "description": "Filter Assembly, 5 Micron",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Sintered stainless steel (316L)"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "5 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10440.jpg"
+  },
+  {
+    "local_pn": "AME-10441",
+    "description": "Probe Inlet Hook",
+    "category": "Probe / Sample- system",
+    "material": [
+      [
+        "Wetted",
+        "316 / 310 stainless steel"
+      ],
+      [
+        "Filter (if fitted)",
+        "Sintered SS / ceramic"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10441.jpg"
+  },
+  {
+    "local_pn": "AME-10442",
+    "description": "Probe Heater, 220 V, with Terminal",
+    "category": "Heater",
+    "material": [
+      [
+        "Type",
+        "Resistance heater"
+      ],
+      [
+        "Sheath",
+        "Stainless steel / Incoloy"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "220V"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10442.jpg"
+  },
+  {
+    "local_pn": "AME-10445",
+    "description": "Ceramic Filter Assembly",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Ceramic"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Rating",
+        "30 MICRON"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10445.jpg"
+  },
+  {
+    "local_pn": "AME-10447",
+    "description": "Ceramic Filter Assembly",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Ceramic"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10447.jpg"
+  },
+  {
+    "local_pn": "AME-10448",
+    "description": "Probe, 3 ft, 310 SS, Threaded",
+    "category": "Probe / Sample- system",
+    "material": [
+      [
+        "Wetted",
+        "316 / 310 stainless steel"
+      ],
+      [
+        "Filter (if fitted)",
+        "Sintered SS / ceramic"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10449",
+    "description": "Combination Head Kit, 1/2 in, with Ferrules",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10449.jpg"
+  },
+  {
+    "local_pn": "AME-10450",
+    "description": "Thermostat, Adjustable",
+    "category": "Heater",
+    "material": [
+      [
+        "Type",
+        "Resistance heater"
+      ],
+      [
+        "Sheath",
+        "Stainless steel / Incoloy"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10451",
+    "description": "Ceramic Filter Assembly",
+    "category": "Filter / Element (mechanical)",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Element",
+        "Ceramic"
+      ],
+      [
+        "Seals",
+        "Per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10451.jpg"
+  },
+  {
+    "local_pn": "AME-10452",
+    "description": "Output Cable",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10453",
+    "description": "Input Cable",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10454",
+    "description": "Inner Probe (ATEX/CENELEC)",
+    "category": "Probe / Sample- system",
+    "material": [
+      [
+        "Wetted",
+        "316 / 310 stainless steel"
+      ],
+      [
+        "Filter (if fitted)",
+        "Sintered SS / ceramic"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10455",
+    "description": "Post Assembly, 230 VAC",
+    "category": "Assembly / Kit",
+    "material": [
+      [
+        "Construction",
+        "Per build configuration"
+      ],
+      [
+        "Wetted (if any)",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10461",
+    "description": "Silicon Carbide Probe Assembly, 36 in",
+    "category": "Probe / Sample- system",
+    "material": [
+      [
+        "Wetted",
+        "316 / 310 stainless steel"
+      ],
+      [
+        "Filter (if fitted)",
+        "Sintered SS / ceramic"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10461.jpg"
+  },
+  {
+    "local_pn": "AME-10462",
+    "description": "Hex Locknut, 1 in-20 Thread",
+    "category": "Mechanical hardware",
+    "material": [
+      [
+        "Material",
+        "Stainless steel"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10463",
+    "description": "Conduit Nipple, 1.5 in OD",
+    "category": "Fitting / Connector",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Ferrules",
+        "316 SS / PTFE"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Outer dia (OD)",
+        "1.5\" OD"
+      ],
+      [
+        "Operating conditions",
+        "O2 cell heated/controlled ~650-680 C; reference/aspirator instrument air ~80-100 psig, ~3 SCFH (1.4 L/min); in-situ 3in-150#/300# flange mount; hazardous-area (ATEX / Cl I Div 2) versions."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10463.jpg"
+  },
+  {
+    "local_pn": "AME-10475",
+    "description": "Power Supply, 240 V",
+    "category": "Power supply",
+    "material": [
+      [
+        "Type",
+        "Electronic power assembly"
+      ],
+      [
+        "Enclosure",
+        "Per configuration"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Voltage",
+        "240V"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10475.jpg"
+  },
+  {
+    "local_pn": "AME-10476",
+    "description": "3-Way Reversing Valve, 1/4 in NPT",
+    "category": "Valve",
+    "material": [
+      [
+        "Body",
+        "316 stainless steel"
+      ],
+      [
+        "Seals",
+        "FKM / PTFE per service"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Connection",
+        "1/4NPT"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10476.jpg"
+  },
+  {
+    "local_pn": "AME-10477",
+    "description": "Power Cable, 3-Conductor",
+    "category": "Cable / Harness",
+    "material": [
+      [
+        "Conductor",
+        "Copper"
+      ],
+      [
+        "Insulation",
+        "PTFE / PVC per rating"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10479",
+    "description": "Thermistor Sensor (PCB-Mount)",
+    "category": "Sensor / Detector",
+    "material": [
+      [
+        "Element",
+        "Sensor"
+      ],
+      [
+        "Wetted / sheath",
+        "316 SS"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample cell in oven ~150 C; heated aluminium aspirator draws ~1.5 SLPM; ambient -20 to +60 C; instrument air 379-517 kPa (55-75 psig)."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": ""
+  },
+  {
+    "local_pn": "AME-10485",
+    "description": "Power Supply, Triple Output",
+    "category": "Power supply",
+    "material": [
+      [
+        "Type",
+        "Electronic power assembly"
+      ],
+      [
+        "Enclosure",
+        "Per configuration"
+      ]
+    ],
+    "dimensions": [
+      [
+        "Dimensions",
+        "Refer to approved drawing"
+      ],
+      [
+        "Operating conditions",
+        "Sample inlet 138-345 kPa (20-50 psig); controlled sample flow with inlet/outlet differential; ambient -20 to +50 C; internal dryer supplies <0.025 ppmv reference gas; pressure-reduction regulators and flow controllers."
+      ]
+    ],
+    "supply": "Locally sourceable",
+    "image": "AME-10485.jpg"
+  }
+]
