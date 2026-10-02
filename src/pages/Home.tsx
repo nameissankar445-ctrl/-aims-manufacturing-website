@@ -253,6 +253,32 @@ const Home = () => {
                 />
               ))}
 
+              {/* Mobile/tablet product picker — horizontal scroll so picking a product
+                  doesn't require scrolling past a tall list below the stage. */}
+              <div className="lg:hidden overflow-x-auto scrollbar-thin -mx-4 px-4 pb-2 mb-4">
+                <div className="flex gap-2 w-max">
+                  {featured.map((product) => {
+                    const isActive = product.id === activeProduct.id;
+                    return (
+                      <button
+                        key={product.id}
+                        type="button"
+                        onClick={() => setActiveProductId(product.id)}
+                        aria-pressed={isActive}
+                        className={`flex items-center gap-2 pl-1.5 pr-3.5 py-1.5 rounded-full border flex-shrink-0 transition-all duration-200 ${
+                          isActive ? 'bg-primary/8 border-primary text-primary' : 'bg-white border-border text-foreground/70'
+                        }`}
+                      >
+                        <span className="w-7 h-7 rounded-full overflow-hidden flex-shrink-0 bg-muted">
+                          <img src={product.image} alt="" className="w-full h-full object-cover" />
+                        </span>
+                        <span className="text-xs font-semibold whitespace-nowrap">{product.name}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
               <div className="relative grid lg:grid-cols-[1fr_340px] lg:grid-rows-1 gap-5 lg:h-[420px]">
                 {/* Stage — active product detail */}
                 <div className="aims-card bg-white rounded-2xl border border-border shadow-elevated overflow-hidden grid sm:grid-cols-2 sm:grid-rows-1 lg:h-full">
@@ -282,7 +308,7 @@ const Home = () => {
                       </span>
                     )}
                   </div>
-                  <div className="relative p-5 lg:p-7 flex flex-col justify-center overflow-y-auto">
+                  <div className="relative p-5 lg:p-7 flex flex-col justify-center overflow-y-auto min-h-[280px] sm:min-h-[260px] lg:min-h-0">
                     <motion.div
                       key={activeProduct.id}
                       initial={{ opacity: 0 }}
@@ -300,7 +326,7 @@ const Home = () => {
                             {detailedProductInfo[activeProduct.id].advantages.slice(0, 1).map((adv) => (
                               <li key={adv.title} className="flex items-start gap-2">
                                 <CheckCircle2 size={14} className="text-primary flex-shrink-0 mt-0.5" />
-                                <span className="text-xs text-foreground leading-relaxed">
+                                <span className="text-xs text-foreground leading-relaxed line-clamp-2">
                                   <span className="font-semibold">{adv.title}</span>
                                   <span className="text-muted-foreground"> — {adv.description}</span>
                                 </span>
@@ -329,8 +355,8 @@ const Home = () => {
                   </div>
                 </div>
 
-                {/* Selector rail — browse and switch the active product */}
-                <div className="aims-card bg-white rounded-2xl border border-border shadow-card p-2.5 flex flex-col lg:h-full overflow-hidden">
+                {/* Selector rail — browse and switch the active product (desktop only; mobile uses the chip picker above) */}
+                <div className="hidden lg:flex aims-card bg-white rounded-2xl border border-border shadow-card p-2.5 flex-col lg:h-full overflow-hidden">
                   <div className="flex items-center justify-between px-2.5 py-1.5 flex-shrink-0">
                     <span className="text-[10.5px] font-bold text-muted-foreground uppercase tracking-wide">All Products</span>
                     <span className="text-[10.5px] font-semibold text-muted-foreground">

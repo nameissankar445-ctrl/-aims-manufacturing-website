@@ -97,11 +97,10 @@ const Loader = () => {
           <span className="absolute bottom-8 left-8 w-10 h-10 border-b-2 border-l-2 border-accent/30 rounded-bl-lg" aria-hidden="true" />
           <span className="absolute bottom-8 right-8 w-10 h-10 border-b-2 border-r-2 border-accent/30 rounded-br-lg" aria-hidden="true" />
 
-          <div className="relative z-10 flex flex-col items-center">
+          <div className="relative z-10 flex flex-col items-center px-6 w-full max-w-sm sm:max-w-none">
             {/* Reticle — the logo itself fills with color bottom-up as progress advances */}
             <motion.div
-              className="relative mb-6"
-              style={{ width: 128, height: 128 }}
+              className="relative mb-6 w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32"
               animate={ready ? { scale: [1, 1.08, 1] } : { scale: 1 }}
               transition={{ duration: 0.45, ease: easeSmooth }}
             >
@@ -154,16 +153,15 @@ const Loader = () => {
               </motion.span>
             </motion.div>
 
-            <div className="relative overflow-hidden">
+            <div className="relative overflow-hidden max-w-full">
               <motion.h1
                 variants={titleContainer}
                 initial="hidden"
                 animate="visible"
-                className="flex text-4xl md:text-5xl font-extrabold tracking-tight whitespace-nowrap"
+                className="flex flex-wrap justify-center items-baseline gap-x-2.5 gap-y-0.5 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight"
               >
-                {renderWord('AIMS', 'text-primary-light')}
-                <span className="inline-block w-2.5" aria-hidden="true" />
-                {renderWord('MANUFACTURING', 'text-accent')}
+                <span className="inline-flex">{renderWord('AIMS', 'text-primary-light')}</span>
+                <span className="inline-flex">{renderWord('MANUFACTURING', 'text-accent')}</span>
               </motion.h1>
               <motion.div
                 className="absolute inset-y-0 w-16 bg-gradient-to-r from-transparent via-white/25 to-transparent -skew-x-[20deg]"
@@ -178,7 +176,7 @@ const Loader = () => {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5, delay: 1.0 }}
-              className="text-white/40 text-[11px] font-semibold tracking-[0.25em] uppercase mt-2"
+              className="text-white/40 text-[10px] sm:text-[11px] font-semibold tracking-[0.15em] sm:tracking-[0.25em] uppercase mt-2 text-center"
             >
               Precision Manufacturing in the GCC
             </motion.p>

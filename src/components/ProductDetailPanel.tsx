@@ -86,13 +86,13 @@ const ProductDetailPanel = ({
     <Dialog open={isOpen} onOpenChange={(open) => !open && onClose()}>
       <DialogContent
         showCloseButton={false}
-        className="max-w-5xl sm:max-w-5xl w-full max-h-[85vh] p-0 gap-0 bg-transparent ring-0 shadow-none rounded-none border-0"
+        className="max-w-5xl sm:max-w-5xl max-h-[85vh] p-0 gap-0 bg-transparent ring-0 shadow-none rounded-none border-0"
       >
         <DialogClose asChild>
           <button
             type="button"
             aria-label="Close"
-            className="absolute -top-3 -right-3 z-30 flex items-center justify-center w-9 h-9 rounded-full bg-accent text-white shadow-lg ring-4 ring-background transition-transform duration-200 hover:scale-105"
+            className="absolute top-3 right-3 sm:-top-3 sm:-right-3 z-30 flex items-center justify-center w-9 h-9 rounded-full bg-accent text-white shadow-lg ring-4 ring-background transition-transform duration-200 hover:scale-105"
           >
             <X size={16} />
           </button>
